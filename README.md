@@ -1,2 +1,4 @@
-# Programming-Fundamentals.c
-Programming-fundamentals course assignment
+# Programming-fundamentals\
+Rubab Zehra\
+26k-2501\
+BDS-1A
